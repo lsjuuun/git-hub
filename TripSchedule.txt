@@ -1,5 +1,7 @@
 Park Hyatt Seoul
 [Hotel Information]
+606, Teheran-ro
 
 [Convenience facilities]
-
+- Wifi
+- One bad
